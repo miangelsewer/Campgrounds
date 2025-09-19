@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented features:
 
 <p align="center">
-  <img src="https://imgflip.com/a6jgp7.gif" alt="Video Walkthrough" style="max-width:100; height:auto;" />
+  <img src="https://i.imgflip.com/a6jgp7.gif" alt="Video Walkthrough" style="max-width:100; height:auto;" />
 </p>
 
 
